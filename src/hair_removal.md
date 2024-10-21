@@ -20,3 +20,9 @@
 - [Electrolysis Clinic of Portland](https://electrolysisclinicpdx.com/)
 - [Portland Electrolysis and Skincare](https://www.pdxelectrolysis.com/)
 - [Bearded Lady Electrology](https://beardedladyelectrology.com/)
+- [Electro Glow Electrology](https://electroglowing.com/)
+- [Bee Smooth Electrolysis](https://beesmoothelectrolysis.com/)
+
+```
+Insurance coverage for electrolysis varies - for example Kaiser will cover 45 sessions for facial hair removal, a different number pre-surgery, etc. Insurance coverage for pre-surgery can vary, but electrolysis is usually required - OHSU, Kaiser, and Legacy will refer out to "community providers" which can be waitlisted. Trying to get non-approved providers on the approved list is possible. 
+```
