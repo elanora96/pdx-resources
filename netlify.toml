@@ -1,4 +1,5 @@
 [build]
   base = "/"
   publish = "book"
-  command = "curl -L https://github.com/rust-lang/mdBook/releases/download/v0.4.40/mdbook-v0.4.40-x86_64-unknown-linux-gnu.tar.gz | tar xvz && ./mdbook build"
+  command = "MDB_VERSION=\"0.4.42\" && curl -L \"https://github.com/rust-lang/mdBook/releases/download/v$MDB_VERSION/mdbook-v$MDB_VERSION-x86_64-unknown-linux-gnu.tar.gz\" | tar xvz && ./mdbook build"
+
